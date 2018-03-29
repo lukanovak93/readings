@@ -21,5 +21,4 @@ The list of books and articles that I'm reading or have already read
 ## Articles
 
 ### 1. Technical
-  - [Understanding LSTMs](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-  
+  - [Understanding LSTMs](articles/Understanding-LSTMs.pdf) [link](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
