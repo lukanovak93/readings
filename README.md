@@ -9,7 +9,7 @@ The list of books and articles that I'm reading or have already read
 1. [Technical](#1.-techincal-2)
 2. [Investing](#2.-investing-2)
 
-### 3. Papers
+### 3. [Papers](papers)
 
 ---
 ## Books
