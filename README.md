@@ -25,6 +25,7 @@ The list of books and articles that I'm reading or have already read
 ### 1. Technical
   - [Understanding LSTMs](articles/understanding-LSTMs.pdf) [link](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
-### Papers
+## Papers
   - [Learning to Generate Reviews and Discovering Sentiment](papers/learning-to-generate-reviews-and-discovering-sentiment.pdf)
   - [Attention with Intention for a Neural Network Conversation Model](papers/attention-with-intention-for-a-neural-network-conversation-model.pdf)
+  - [Visualizing and Understanding Convolutional Networks](visualizing-and-understanding-convolutional-networks.pdf)
