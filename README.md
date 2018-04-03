@@ -27,3 +27,4 @@ The list of books and articles that I'm reading or have already read
 
 ### Papers
   - [Learning to Generate Reviews and Discovering Sentiment](papers/Learning-to-Generate-Reviews-and-Discovering-Sentiment.pdf)
+  - [Attention with Intention for a Neural Network Conversation Model](papers/Attention-with-Intention-for-a-Neural-Network-Conversation-Model.pdf)
