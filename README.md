@@ -9,6 +9,8 @@ The list of books and articles that I'm reading or have already read
 1. [Technical](#1.-techincal-2)
 2. [Investing](#2.-investing-2)
 
+### 3. [Papers]
+
 ---
 ## Books
 
@@ -22,3 +24,6 @@ The list of books and articles that I'm reading or have already read
 
 ### 1. Technical
   - [Understanding LSTMs](articles/Understanding-LSTMs.pdf) [link](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+
+### Papers
+  - [Learning to Generate Reviews and Discovering Sentiment](papers/Learning-to-Generate-Reviews-and-Discovering-Sentiment.pdf)
